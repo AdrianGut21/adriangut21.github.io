@@ -1,0 +1,124 @@
+body { 
+    background-color: #000000; 
+    background-color: RGBA(0, 0, 0, 0); 
+    margin: 0 auto; 
+    overflow: hidden; 
+} .controller.xbox{
+    background: url(https://imgur.com/J48p3pQ.png); /*base*/
+    width: 807px;
+    height: 651px;
+    margin-left: 0;
+    margin-top: 0;
+} .xbox .sticks {
+    width: 363px;
+    height: 100px;
+    left: 225px;
+    top: 329px;
+}.xbox .stick {
+    background: url(https://i.imgur.com/nXaGdI2.png); 
+    width: 100px;
+    height: 100px;
+} .xbox .stick.pressed {
+    background-position: -102px 0;
+} .xbox .stick.right {
+    top: 0;
+    left: 256.9px;
+} .xbox .abxy {
+    width: 195px;
+    height: 195px;
+    left: 565px;
+    top: 178px;
+} .xbox .button {
+    background: url(https://imgur.com/eXZpunk.png); 
+    width: 59px;
+    height: 58px;
+} .xbox .button.pressed {
+    background-position-y: -60px;
+    margin-top: 0;
+} .xbox .a {
+    background-position: 1px 0px;
+    left: 59.5px;
+    top: 121px;
+} .xbox .b {
+    background-position: -59px 0;
+    left: 119.5px;
+    top: 61.5px;
+} .xbox .x {
+    background-position: -120px 0;
+    left: 3.3px;
+    top: 61.3px;
+} .xbox .y {
+    background-position: -177px 0;
+    left: 60px;
+    top: 2px;
+} .xbox .arrows {
+    left: 201.5px;
+    top: 142.5px;
+    width: 403.5px;
+    height: 57px;
+} .xbox .quadrant { 
+    display: none; 
+} .xbox .back, .xbox .start {
+    background: url(https://imgur.com/0kRCAVM.png);
+    width: 27px;
+    height: 56px;
+    opacity: 0;
+} .xbox .start {
+    background-position: 26px 0;
+    float: right;
+} .xbox .dpad {
+    width: 144px;
+    height: 144px;
+    left: 71px;
+    top: 196px;
+} .xbox .face {
+    background: url(https://imgur.com/1skNmCY.png); /*DPAD*/
+    position: absolute;
+    opacity: 0;
+} .xbox .face.up {
+    background-position: 0 -68px;
+    width: 52px;
+    height: 63px;
+    left: 56px;
+    top: 1.5px;
+} .xbox .face.down {
+    background-position: -54px 63px;
+    width: 52px;
+    height: 63px;
+    left: 55.6px;
+    top: 78.5px;
+} .xbox .face.left {
+    background-position: -108px -68px;
+    width: 64px;
+    height: 52px;
+    left: 10.5px;
+    top: 46px; 
+} .xbox .face.right {
+    background-position: -175px -68px;
+    width: 63px;
+    height: 52px;
+    left: 88.5px;
+    top: 46.4px;
+} .xbox .bumpers {
+    width: 614px;
+    height: 44px;
+    left: 96.3px;
+    top: 112px;
+} .xbox .bumper {
+    background: url(https://imgur.com/jrfOoLB.png);
+    width: 113px;
+    height: 44px;
+    opacity: 0;
+} .xbox .triggers {
+    width: 614px;
+    height: 108px;
+    left: 96px;
+} .xbox .trigger {
+    background: url(https://imgur.com/va7K4QY.png);
+    width: 114px;
+    height: 108px;
+    opacity: 0;
+} .xbox .trigger.right {
+    background-position: -115px;
+    transform: rotateY(0);
+}
