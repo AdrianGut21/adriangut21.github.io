@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 224 108" style="enable-background:new 0 0 224 108;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#141414;}
+	.st1{fill:#0B0D0D;}
+	.st2{fill:#F6F6F6;}
+	.st3{font-family:'Arial-BoldMT';}
+	.st4{font-size:17.8145px;}
+</style>
+<g id="Capa_1_1_">
+	<g id="Left">
+		<path class="st0" d="M3.1,92.4l-0.6-4c0,0,5.3-36,20.4-58.7S47.9,1,65.1,1S100,15.6,105,34.2s3.7,57.2,3.7,57.2
+			s-20.3,11.2-67.5,7.2C-6.1,94.6,3.1,92.4,3.1,92.4z"/>
+		<path class="st1" d="M105.9,105.6c0,0-36.6,4.9-102.8-3.3c0,0-3,0.7-2.2-5.3s1.6-8.6,1.6-8.6s55.2,11.1,106.2,3v12
+			C108.7,103.3,108.1,105.3,105.9,105.6z"/>
+		<text transform="matrix(1.0915 0 0 1 74.8599 82.2344)" class="st2 st3 st4">L2</text>
+	</g>
+	<g id="Right">
+		<path class="st0" d="M220.9,92.4l0.6-4c0,0-5.3-36-20.4-58.7C186,6.9,176.1,1,158.9,1s-34.9,14.6-40,33.2s-3.7,57.2-3.7,57.2
+			s32.6,14.3,67.5,7.2C216.2,91.8,220.9,92.4,220.9,92.4z"/>
+		<path class="st1" d="M118.1,105.6c0,0,36.6,4.9,102.8-3.3c0,0,2.9,0.7,2.2-5.3c-0.8-6-1.6-8.6-1.6-8.6s-55.2,11.1-106.2,3v12
+			C115.3,103.3,115.8,105.3,118.1,105.6z"/>
+		<text id="R2" transform="matrix(1.0915 0 0 1 124.1924 82.2344)" class="st2 st3 st4">R2</text>
+	</g>
+</g>
+</svg>
