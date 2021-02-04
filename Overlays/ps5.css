@@ -11,8 +11,6 @@ body {
     margin-top: 0;
 } .xbox.disconnected {
     background: url(https://imgur.com/4LY5HkW.png);
-} .xbox.disconnected div {
-    display: none;
 } .xbox .sticks {
     width: 363px;
     height: 100px;
