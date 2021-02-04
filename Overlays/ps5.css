@@ -9,14 +9,16 @@ body {
     height: 651px;
     margin-left: 0;
     margin-top: 0;
-}   xbox.disconnected {
+} .xbox.disconnected {
     background: url(https://imgur.com/4LY5HkW.png);
+} .xbox.disconnected div {
+    display: none;
 } .xbox .sticks {
     width: 363px;
     height: 100px;
     left: 225px;
     top: 329px;
-}.xbox .stick {
+} .xbox .stick {
     background: url(https://imgur.com/IxBuRE2.png); 
     width: 100px;
     height: 100px;
