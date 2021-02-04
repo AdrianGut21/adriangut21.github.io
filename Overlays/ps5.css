@@ -2,21 +2,21 @@ body {
     background-color: #000000; 
     background-color: RGBA(0, 0, 0, 0); 
     margin: 0 auto; 
-    overflow: hidden;
+    overflow: hidden; 
 } .controller.xbox{
     background: url(https://imgur.com/rEBF0q9.png); /*base*/
     width: 807px;
     height: 651px;
     margin-left: 0;
     margin-top: 0;
-} .xbox.disconnected {
-    background: url(https://imgur.com/4LY5HkW.png);
+} .xobx.disconnected {
+    background:url(https://imgur.com/4LY5HkW.png);
 } .xbox .sticks {
     width: 363px;
     height: 100px;
     left: 225px;
     top: 329px;
-} .xbox .stick {
+}.xbox .stick {
     background: url(https://imgur.com/IxBuRE2.png); 
     width: 100px;
     height: 100px;
@@ -43,27 +43,27 @@ body {
     top: 121px;
 } .xbox .b {
     background-position: -59px 0;
-    left: 119.5px;
-    top: 61.5px;
+    left: 119.3px;
+    top: 62px;
 } .xbox .x {
-    background-position: -120px 0;
-    left: 3.3px;
-    top: 61.3px;
+    background-position: -119px 0;
+    left: 2px;
+    top: 62px;
 } .xbox .y {
     background-position: -177px 0;
-    left: 60px;
-    top: 2px;
+    left: 59.6px;
+    top: 2.8px;
 } .xbox .arrows {
-    left: 201.5px;
-    top: 142.5px;
-    width: 403.5px;
+    left: 202px;
+    top: 143px;
+    width: 402px;
     height: 57px;
 } .xbox .quadrant { 
     display: none; 
 } .xbox .back, .xbox .start {
     background: url(https://imgur.com/9vRRL0Y.png);
-    width: 27px;
-    height: 56px;
+    width: 26px;
+    height: 57px;
     opacity: 0;
 } .xbox .start {
     background-position: 26px 0;
